@@ -1,3 +1,5 @@
 function add(a, b) {
-  1000 + 323
+  var a = 1000
+  var b = 326
+  a + b
 }
